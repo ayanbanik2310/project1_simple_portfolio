@@ -4,7 +4,9 @@
     padding : 0;
 }
 
-/* navigation  */
+html{
+    scroll-behavior: smooth;
+}
 
 /* navigation section */
 
